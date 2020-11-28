@@ -1,1 +1,1 @@
-https://www.npmjs.com/package/gateway-health-probe
+https://www.npmjs.com/package/express-gateway-plugin-health
